@@ -1,0 +1,4 @@
+name: SkeletonBoss
+version: '1.0-SNAPSHOT'
+main: com.violetsmc.skeletonBoss.SkeletonBoss
+api-version: '1.21'
